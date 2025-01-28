@@ -1,0 +1,40 @@
+Insights
+
+Complaint Volume: There were 12,230 complaints logged between April 2023 and March 2024. The number of complaints peaked in certain months, indicating possible seasonal trends or specific issues arising during those periods.
+
+Entities: The majority of complaints were managed by "Peabody" compared to "Catalyst." This could indicate a higher customer base, more significant issues, or less effective resolution processes for Peabody.
+
+Stages: Most complaints were logged at Stage 1, with some at the Service Recovery stage. This suggests that many issues are resolved at the initial stage, but a notable number escalate, requiring additional intervention.
+
+Categories and Issues:
+
+Top Categories: Some of the frequent complaint categories included "Responsive Repairs," "Transfer Request," and "Priority Move Request."
+Issue Types: Common issues included "Delays," "Lack of Progress Made," and "Policy & Procedure."
+Resolution: A significant number of complaints (1181) lacked resolution dates, indicating possible unresolved issues or data entry gaps. Among those resolved, the average resolution time and efficiency varied.
+
+Geographical Insights:
+
+Localities: Complaints were spread across various localities, with North West London and South London being prominent.
+Local Authorities: Certain local authorities, like "Ealing," "Lambeth," and "Hammersmith and Fulham," had higher complaint volumes.
+Lessons Learnt: Most complaints did not result in any significant lessons learnt, suggesting either a lack of follow-up analysis or effective resolution without systemic issues.
+
+Complaint Outcomes:
+
+"Upheld" complaints were frequent, indicating valid customer concerns.
+Many complaints were marked as "Not Upheld," suggesting disagreements or unmet expectations.
+
+Actionable Recommendations
+
+1. Enhance Data Quality: Address missing data issues, especially for resolution dates and detailed complaint outcomes, to ensure complete and accurate records for better analysis.
+
+2. Investigate Peak Periods: Conduct a detailed analysis of peak complaint periods to identify underlying causes and implement measures to mitigate these issues in the future.
+
+3. Focus on Common Issues: Develop targeted strategies to address the most frequent complaint categories and issue types. For example, improving processes and communication around "Responsive Repairs" and "Transfer Requests" could significantly reduce complaint volumes.
+
+4. Strengthen Follow-up Procedures: Ensure that every complaint results in a follow-up analysis to identify and implement lessons learnt, even for those resolved at Stage 1.
+
+5. Improve Resolution Efficiency: Analyze resolution times and processes to identify bottlenecks and streamline complaint handling, particularly for cases lacking resolution dates.
+
+6. Geographical Targeting: Allocate resources and attention to localities and authorities with higher complaint volumes to address specific regional issues effectively.
+
+7. Customer Feedback Loop: Implement a robust customer feedback mechanism post-resolution to gather insights on the effectiveness of the resolution process and areas needing improvement.
